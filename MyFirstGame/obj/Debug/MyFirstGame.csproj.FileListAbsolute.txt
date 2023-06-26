@@ -1,0 +1,7 @@
+C:\Users\homel\OneDrive\Desktop\Python\ConsoleApp1\MyFirstGame\bin\Debug\MyFirstGame.exe.config
+C:\Users\homel\OneDrive\Desktop\Python\ConsoleApp1\MyFirstGame\bin\Debug\MyFirstGame.exe
+C:\Users\homel\OneDrive\Desktop\Python\ConsoleApp1\MyFirstGame\bin\Debug\MyFirstGame.pdb
+C:\Users\homel\OneDrive\Desktop\Python\ConsoleApp1\MyFirstGame\obj\Debug\MyFirstGame.csproj.AssemblyReference.cache
+C:\Users\homel\OneDrive\Desktop\Python\ConsoleApp1\MyFirstGame\obj\Debug\MyFirstGame.csproj.CoreCompileInputs.cache
+C:\Users\homel\OneDrive\Desktop\Python\ConsoleApp1\MyFirstGame\obj\Debug\MyFirstGame.exe
+C:\Users\homel\OneDrive\Desktop\Python\ConsoleApp1\MyFirstGame\obj\Debug\MyFirstGame.pdb
