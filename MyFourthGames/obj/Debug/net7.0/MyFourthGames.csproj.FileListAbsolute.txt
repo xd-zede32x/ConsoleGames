@@ -1,0 +1,15 @@
+C:\Users\homel\OneDrive\Desktop\Python\MyThreeGame\MyFourthGames\bin\Debug\net7.0\MyFourthGames.exe
+C:\Users\homel\OneDrive\Desktop\Python\MyThreeGame\MyFourthGames\bin\Debug\net7.0\MyFourthGames.deps.json
+C:\Users\homel\OneDrive\Desktop\Python\MyThreeGame\MyFourthGames\bin\Debug\net7.0\MyFourthGames.runtimeconfig.json
+C:\Users\homel\OneDrive\Desktop\Python\MyThreeGame\MyFourthGames\bin\Debug\net7.0\MyFourthGames.dll
+C:\Users\homel\OneDrive\Desktop\Python\MyThreeGame\MyFourthGames\bin\Debug\net7.0\MyFourthGames.pdb
+C:\Users\homel\OneDrive\Desktop\Python\MyThreeGame\MyFourthGames\obj\Debug\net7.0\MyFourthGames.csproj.AssemblyReference.cache
+C:\Users\homel\OneDrive\Desktop\Python\MyThreeGame\MyFourthGames\obj\Debug\net7.0\MyFourthGames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\homel\OneDrive\Desktop\Python\MyThreeGame\MyFourthGames\obj\Debug\net7.0\MyFourthGames.AssemblyInfoInputs.cache
+C:\Users\homel\OneDrive\Desktop\Python\MyThreeGame\MyFourthGames\obj\Debug\net7.0\MyFourthGames.AssemblyInfo.cs
+C:\Users\homel\OneDrive\Desktop\Python\MyThreeGame\MyFourthGames\obj\Debug\net7.0\MyFourthGames.csproj.CoreCompileInputs.cache
+C:\Users\homel\OneDrive\Desktop\Python\MyThreeGame\MyFourthGames\obj\Debug\net7.0\MyFourthGames.dll
+C:\Users\homel\OneDrive\Desktop\Python\MyThreeGame\MyFourthGames\obj\Debug\net7.0\refint\MyFourthGames.dll
+C:\Users\homel\OneDrive\Desktop\Python\MyThreeGame\MyFourthGames\obj\Debug\net7.0\MyFourthGames.pdb
+C:\Users\homel\OneDrive\Desktop\Python\MyThreeGame\MyFourthGames\obj\Debug\net7.0\MyFourthGames.genruntimeconfig.cache
+C:\Users\homel\OneDrive\Desktop\Python\MyThreeGame\MyFourthGames\obj\Debug\net7.0\ref\MyFourthGames.dll
