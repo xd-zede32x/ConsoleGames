@@ -18,8 +18,6 @@ namespace MyFirstGame
             this.id = id;
             this.isStack = isStack;
             this.count = count;
-
-
         }
 
         public object Clone()
