@@ -28,6 +28,7 @@ namespace MyFirstGame
             playerPower = playerPowerMax;
         }
     }
+    
     class Inventory
     {
         public List<Item> items = new List<Item>();
@@ -55,6 +56,7 @@ namespace MyFirstGame
                 items.Add(item);
             }
         }
+        
         public void GetAllItems()
         {
             for (int index = 0; index < items.Count; index++)
